@@ -83,6 +83,7 @@ function prog5xiyuzhang(){
         }
         return flag;
         }
+    
 var num = parseInt(prompt("please type a number",""));
 var i;
 for(i=2;i<=num;i++){
