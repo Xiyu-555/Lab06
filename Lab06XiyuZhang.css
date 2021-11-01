@@ -1,0 +1,31 @@
+/* Name: Xiyu Zhang Copyright: Xiyu Zhang */
+body{
+    background-color: lightyellow;
+}
+h2{
+    color: darkgreen;
+}
+h2:hover{
+    background-color: black;
+    color: yellow;
+}
+span{
+    color: red;
+}
+button{
+    color: white;
+    background-color: green;
+    width: 120px;
+    margin-left: 20px;
+    font-size: 14px;
+    text-align: center;
+    border-radius: 9%;
+}
+p{
+    color: darkgreen;
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-left: 20px;
+}
